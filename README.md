@@ -13,4 +13,4 @@ Improving my coding skills in python using leetcode daily. List of problems from
 [Products of Array Except Self](https://github.com/Paramamithra/100-Days-of-Leet-Code/blob/main/Products%20of%20Array%20Except%20Self.py), [LeetCode Link](https://leetcode.com/problems/product-of-array-except-self/)
 
 ### Day 5 ###
-[Maximum Bags With Full Capacity of Rocks](), [LeetCode Link](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
+[Maximum Bags With Full Capacity of Rocks](https://github.com/Paramamithra/100-Days-of-Leet-Code/blob/main/Maximum%20Bags%20With%20Full%20Capacity%20of%20Rocks.py), [LeetCode Link](https://leetcode.com/problems/maximum-bags-with-full-capacity-of-rocks/)
